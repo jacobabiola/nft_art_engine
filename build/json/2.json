@@ -1,0 +1,39 @@
+{
+  "name": "SlateDAO  #2",
+  "description": "SlateDAO is creating movies and cinema DAO. A global community of thousands of enthusiasts has come together to create one of the world's greatest  Movies and cinemas.",
+  "image": "ipfs://QmZThwbjueVSZHGc5j2DB4Net34xYpQYAzaqzRgXT1Sed5/2.png",
+  "dna": "155190207d1ec58135ec2add18e49975270230ca",
+  "edition": 2,
+  "date": 1651161842560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
