@@ -7,7 +7,7 @@ Create generative art by using the canvas api and node js. Before you use the ge
 
 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/jacobabiola/nft_art_engine.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
